@@ -15,7 +15,7 @@ listings.csv - Detailed listings data from Airbnb.
 reviews.csv - Reviews for the Airbnb listings.  
 
 ## Models and Analysis  
-Gradient Boosting Regressor: Best performance with an R² of 0.9971 and MSE of 7.46 million.  
+Gradient Boosting Regressor: Best performance with an R² of 0.9971.  
 Baseline Linear Regression: Achieved an R² score of 0.9133.  
 Regularization Models (Ridge and Lasso Regression): Addressed multicollinearity and improved prediction accuracy.  
 
